@@ -54,6 +54,4 @@ DATA ATTRIBUTES:
 - Testing
 - Analysis
 
-## CONCLUSION
-The accuracy of both the algorithms was 100% because of the clean data set
 
